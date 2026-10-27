@@ -1,0 +1,48 @@
+{
+  "n_users": 600000,
+  "srm": {
+    "arms": [
+      "control",
+      "treatment"
+    ],
+    "observed": [
+      299632,
+      300368
+    ],
+    "chi2": 0.9028266666666667,
+    "p_value": 0.34202490699593324
+  },
+  "ate": {
+    "metric": "conversion",
+    "control_mean": 0.1794000640786031,
+    "treatment_mean": 0.22891919245725242,
+    "abs_lift": 0.04951912837864933,
+    "rel_lift": 0.27602625803384784,
+    "se": 0.001038743635473525,
+    "ci_low": 0.047483228263951016,
+    "ci_high": 0.05155502849334764,
+    "p_value": 0.0
+  },
+  "models": {
+    "T-learner": {
+      "qini_coefficient": 0.02220500658369498,
+      "qini_ci95": [
+        0.02159038247051803,
+        0.02283275258718076
+      ],
+      "share_of_total_uplift_top30": 1.348124076611906,
+      "observed_effect_top30": 0.2201452637035018,
+      "observed_effect_bottom70": -0.024345550888939055
+    },
+    "X-learner": {
+      "qini_coefficient": 0.021552580931246783,
+      "qini_ci95": [
+        0.020988301425128055,
+        0.022142817333148962
+      ],
+      "share_of_total_uplift_top30": 1.3114997540075777,
+      "observed_effect_top30": 0.21468873011490205,
+      "observed_effect_bottom70": -0.02193249479426812
+    }
+  }
+}

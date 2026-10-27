@@ -1,0 +1,13 @@
+channel,tenure,arm,users,visit_rate,control_rate,abs_lift,lift_rank
+Multichannel,returning,Mens E-Mail,1058,0.2372,0.1525,0.0847,1
+Multichannel,new,Mens E-Mail,1519,0.1935,0.112,0.0815,2
+Web,returning,Mens E-Mail,4886,0.2253,0.1457,0.0796,3
+Phone,new,Mens E-Mail,4563,0.1335,0.0568,0.0766,4
+Phone,returning,Mens E-Mail,4677,0.1914,0.1171,0.0743,5
+Web,new,Mens E-Mail,4604,0.1616,0.09,0.0716,6
+Multichannel,new,Womens E-Mail,1561,0.1698,0.112,0.0577,7
+Phone,new,Womens E-Mail,4631,0.1071,0.0568,0.0503,8
+Web,new,Womens E-Mail,4571,0.1378,0.09,0.0478,9
+Web,returning,Womens E-Mail,4783,0.19,0.1457,0.0443,10
+Phone,returning,Womens E-Mail,4823,0.1555,0.1171,0.0384,11
+Multichannel,returning,Womens E-Mail,1018,0.1847,0.1525,0.0321,12

@@ -1,0 +1,32 @@
+[
+  {
+    "p_base": 0.106,
+    "lift_rel": 0.0,
+    "n_per_arm": 20000,
+    "n_looks": 20,
+    "n_sims": 2000,
+    "reject_fixed_horizon": 0.056,
+    "reject_naive_peeking": 0.262,
+    "reject_msprt": 0.0175
+  },
+  {
+    "p_base": 0.106,
+    "lift_rel": 0.05,
+    "n_per_arm": 20000,
+    "n_looks": 20,
+    "n_sims": 2000,
+    "reject_fixed_horizon": 0.408,
+    "reject_naive_peeking": 0.611,
+    "reject_msprt": 0.169
+  },
+  {
+    "p_base": 0.106,
+    "lift_rel": 0.1,
+    "n_per_arm": 20000,
+    "n_looks": 20,
+    "n_sims": 2000,
+    "reject_fixed_horizon": 0.9255,
+    "reject_naive_peeking": 0.9605,
+    "reject_msprt": 0.7015
+  }
+]
